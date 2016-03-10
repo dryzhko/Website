@@ -6,6 +6,8 @@ p {
 
 	text-align: center;
 	text-shadow: 1px 1px white;
+	font-family:"futura";
+	font-style:italic;
 }
 
 h1{
@@ -55,7 +57,19 @@ ul{
 
 a.logo{
 	color:#337ec3;
-	font-style:futura;
-	list-style-type:none;
+	font-family:"futura";
+	
+	text-decoration:none;
 
 }
+
+a.resdown{
+	text-decoration:underline; 
+
+}
+.center {
+    margin-left:auto;
+    margin-right:auto;
+    width:800px;
+}
+
