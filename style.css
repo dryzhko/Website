@@ -1,0 +1,61 @@
+body {
+    background-color: lightgrey;
+}
+
+p { 
+
+	text-align: center;
+	text-shadow: 1px 1px white;
+}
+
+h1{
+	text-align: center;
+	text-shadow: 1px 1px 5px black;
+	text-decoration:none;
+}
+
+a{
+	color:black;
+	text-decoration:none;
+}
+
+h1 a{
+	text-decoration: none;
+
+}
+
+
+
+
+
+a{
+	color:black;
+}
+
+a:visited{ 
+	text-decoration: none; color:black;
+ }
+
+a:hover{ 
+	text-decoration: underline; color:#337ec3; 
+}
+
+a:focus{ 
+	text-decoration: underline; color:#337ec3; 
+}
+
+a:hover, a:active{ 
+	text-decoration: underline; color:#337ec3 
+}
+
+ul{
+	list-style-type:none;
+
+}
+
+a.logo{
+	color:#337ec3;
+	font-style:futura;
+	list-style-type:none;
+
+}
